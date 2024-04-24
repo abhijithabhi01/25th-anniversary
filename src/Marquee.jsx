@@ -4,7 +4,7 @@ import './marquee.css'
 function Marquee() {
   return (
     <>
-<div className='marqueediv' style={{height:'30px'}}>
+<div className='marqueediv' style={{height:'60px'}}>
 <marquee>
 <div className='d-flex'>
 
